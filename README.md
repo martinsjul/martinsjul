@@ -1,14 +1,6 @@
-<!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc8dd,50:cdb4db,100:a2d2ff&height=200&section=header&text=Oi,%20eu%20sou%20a%20Julia!&fontSize=46&fontColor=4a3f6b&fontAlignY=38&desc=Dev%20backend%20%E2%80%A2%20Dados%20%E2%80%A2%20IA%20aplicada&descAlignY=58&descSize=18&animation=fadeIn" alt="Oi, eu sou a Julia!" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc8dd,50:cdb4db,100:a2d2ff&height=190&section=header&text=Julia%20Martins&fontSize=48&fontColor=4a3f6b&fontAlignY=38&desc=Analise%20e%20Desenvolvimento%20de%20Sistemas%20%E2%80%A2%20IA%20e%20Ciencia%20de%20Dados&descAlignY=58&descSize=16&animation=fadeIn" alt="Julia Martins" />
 
 <div align="center">
-
-<!-- Frase digitando -->
-<a href="https://github.com/martinsjul">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BDA&center=true&vCenter=true&width=560&lines=Estudante+de+ADS+na+FATEC+Sorocaba+%F0%9F%92%BB;Transformo+dados+p%C3%BAblicos+em+coisas+%C3%BAteis+%F0%9F%97%BA%EF%B8%8F;Construindo+com+IA+todo+dia+%F0%9F%A4%96;Caf%C3%A9%2C+c%C3%B3digo+e+curiosidade+%F0%9F%8C%B8" alt="Frase animada" />
-</a>
-
-<br/>
 
 <a href="https://www.linkedin.com/in/julia-martins-04090027b"><img src="https://img.shields.io/badge/LinkedIn-a2d2ff?style=for-the-badge&logo=linkedin&logoColor=4a3f6b" alt="LinkedIn" /></a>
 <a href="https://portfolio-julia-vert.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-ffafcc?style=for-the-badge&logo=vercel&logoColor=4a3f6b" alt="Portfólio" /></a>
@@ -18,105 +10,103 @@
 
 ---
 
-## 💜 Sobre mim
+## 🌸 Sobre mim
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Sorocaba, com formação técnica em Desenvolvimento de Sistemas pela ETEC Fernando Prestes e estágio em Redes e TI na Prefeitura de Sorocaba.
 
-🎓 Cursando **Análise e Desenvolvimento de Sistemas** na FATEC Sorocaba
+Minha direção é clara: **inteligência artificial e ciência de dados**. Gosto da parte em que o dado deixa de ser planilha e vira decisão — limpeza, análise, modelo, resposta. É pra lá que estou construindo minha carreira, e cada projeto aqui no GitHub é um degrau nesse caminho.
 
-💻 Técnica em **Desenvolvimento de Sistemas** pela ETEC Fernando Prestes
-
-🛠️ Estagiária de **Redes e TI** na Prefeitura de Sorocaba
-
-📍 Sorocaba, SP
-
-</td>
-    <td width="50%" valign="top">
-
-🗺️ Amo transformar **dados públicos** em coisas úteis
-
-🧩 Curto **backend**, **dados** e resolver problema de verdade
-
-🤖 Aprendendo **agentes de IA** e **automações**
-
-🌸 Sempre aprendendo alguma coisa nova
-
-</td>
-  </tr>
-</table>
+📍 Sorocaba, SP &nbsp;•&nbsp; 🎓 Formatura em dezembro de 2027 &nbsp;•&nbsp; 💼 Aberta a oportunidades de estágio
 
 ---
 
-## 🚀 Projetos em destaque
+## 🧠 Minhas áreas
 
+<div align="center">
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🍜 <a href="https://github.com/martinsjul/faro">Faro</a></h3>
-      <p>Chat com IA que <b>pesquisa restaurantes em tempo real</b>: você diz o que quer comer e ele busca no Google na hora, sugere lugares e mostra as fontes.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-      </p>
+    <td width="33%" align="center" valign="top">
+      <h3>🤖</h3>
+      <b>Inteligência Artificial</b>
+      <br/><br/>
+      <sub>Agentes de IA, integração com LLMs, automação de tarefas e engenharia de prompt aplicada a problemas reais.</sub>
     </td>
-    <td width="50%" valign="top">
-      <h3>🗺️ <a href="https://github.com/martinsjul/veltis">Veltis</a></h3>
-      <p>Mapa de escolas, faculdades e cursos dos <b>27 municípios da Região Metropolitana de Sorocaba</b>, com dados oficiais do IBGE e do INEP. Cuido do backend e dos dados.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
+    <td width="33%" align="center" valign="top">
+      <h3>📊</h3>
+      <b>Ciência de Dados</b>
+      <br/><br/>
+      <sub>Coleta, limpeza e análise de dados, pipelines, SQL e visualização para transformar números em informação útil.</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>⚙️</h3>
+      <b>Backend</b>
+      <br/><br/>
+      <sub>A base de tudo: APIs, banco de dados e código organizado que sustenta modelo e análise em produção.</sub>
     </td>
   </tr>
 </table>
-
-<details>
-<summary><b>🔎 Mais sobre o Veltis</b></summary>
-<br/>
-
-- **7 pipelines** em Python que baixam, validam e carregam dados do IBGE e do INEP
-- **1.806 escolas, 115 instituições de ensino superior e 10.381 ofertas de cursos** no banco
-- **API em FastAPI** com 13 endpoints, GeoJSON, filtros, busca e paginação
-- Testes automatizados com pytest e decisões técnicas documentadas
-
-</details>
+</div>
 
 ---
 
-## 🛠️ Minhas ferramentas
+## 🧰 Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,js,html,css,angular,git,github,vercel,linux&perline=11" alt="Tecnologias" />
+**Linguagens**
 
-<br/><br/>
+![Python](https://img.shields.io/badge/Python-a2d2ff?style=for-the-badge&logo=python&logoColor=4a3f6b)
+![Java](https://img.shields.io/badge/Java-cdb4db?style=for-the-badge&logo=openjdk&logoColor=4a3f6b)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffc8dd?style=for-the-badge&logo=javascript&logoColor=4a3f6b)
+![SQL](https://img.shields.io/badge/SQL-bde0fe?style=for-the-badge&logo=postgresql&logoColor=4a3f6b)
 
-![IA](https://img.shields.io/badge/IA_generativa-Claude_%7C_Gemini_%7C_ChatGPT-cdb4db?style=for-the-badge&labelColor=ffc8dd&color=a2d2ff)
+**Dados e IA**
+
+![Pandas](https://img.shields.io/badge/Pandas-ffafcc?style=for-the-badge&logo=pandas&logoColor=4a3f6b)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-a2d2ff?style=for-the-badge&logo=postgresql&logoColor=4a3f6b)
+![FastAPI](https://img.shields.io/badge/FastAPI-cdb4db?style=for-the-badge&logo=fastapi&logoColor=4a3f6b)
+![Gemini](https://img.shields.io/badge/Gemini_API-ffc8dd?style=for-the-badge&logo=googlegemini&logoColor=4a3f6b)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-bde0fe?style=for-the-badge&logo=git&logoColor=4a3f6b)
+![GitHub](https://img.shields.io/badge/GitHub-cdb4db?style=for-the-badge&logo=github&logoColor=4a3f6b)
+![Linux](https://img.shields.io/badge/Linux-ffafcc?style=for-the-badge&logo=linux&logoColor=4a3f6b)
+![Vercel](https://img.shields.io/badge/Vercel-a2d2ff?style=for-the-badge&logo=vercel&logoColor=4a3f6b)
 
 </div>
 
 ---
 
-## 📊 Meus números
+## 📚 Estudando agora
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=martinsjul&show_icons=true&hide_border=true&bg_color=00000000&title_color=b48bd8&icon_color=f4a6c6&text_color=8a86a8&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsjul&layout=compact&hide_border=true&bg_color=00000000&title_color=b48bd8&text_color=8a86a8&locale=pt-br" alt="Linguagens mais usadas" />
+| Área | O que estou aprendendo |
+|:--|:--|
+| 🤖 **IA** | Agentes autônomos, uso de LLMs via API e automações |
+| 📊 **Dados** | Análise com Python, SQL avançado e visualização |
+| ☕ **Programação** | Java orientado a objetos e boas práticas de código |
 
 </div>
 
 ---
 
+## 💻 Projetos
+
+Meus repositórios reúnem trabalhos de faculdade, projetos pessoais e experimentos com IA e dados. Os principais estão fixados aqui no perfil.
+
+---
+
+
+
+---
+
 <div align="center">
 
-### 💬 Bora conversar?
+### 💬 Vamos conversar
 
-Me chama no [LinkedIn](https://www.linkedin.com/in/julia-martins-04090027b) pra falar de dados, IA ou estágio!
+Se você trabalha com **IA** ou **dados**, ou tem uma vaga de estágio na área, me chama no [LinkedIn](https://www.linkedin.com/in/julia-martins-04090027b).
 
 </div>
 
